@@ -1,0 +1,12 @@
+{
+  "region":
+  {
+    "cityname":"porto",
+    "minlon":115.0005616, 
+    "minlat":39.2941483,
+    "maxlon":116.9927899,
+    "maxlat":40.888247,
+    "cellsize":100.0,
+    "minfreq":10
+  }
+}
