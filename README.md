@@ -1,6 +1,6 @@
 # RL4QDTS
 
-This is the implementation of our paper "Collectively Simplifying Trajectories in a Database: A Query Accuracy Driven Approach".
+This is the implementation of our paper "Collectively Simplifying Trajectories in a Database: A Query Accuracy Driven Approach" (ICDE 2024).
 
 ## Requirements
 
