@@ -56,7 +56,7 @@ Note that you can run the code multiple times (note to set different random seed
 
 ### Query Processing
 
-Based on the simplified database, you can perform different query processing operators. For KNN query (t2vec), the trained t2vec model (called `best_model.pt`) on Geolife is provided.
+Based on the simplified database, you can perform different query processing operators. For KNN query (t2vec), the trained t2vec model (called `best_model.pt`) on Geolife is provided [here](https://drive.google.com/file/d/1z2raBuYS43JbN9AXrtRG59BBpYzYSQtp/view?usp=drive_link).
 ```
 python range_query.py
 python knn_query_edr.py
